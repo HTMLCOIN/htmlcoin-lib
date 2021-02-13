@@ -1,6 +1,6 @@
 {
   "name": "htmlcoin-lib",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "A pure and powerful JavaScript HTMLCOIN library.",
   "author": "HTMLCOIN <support@htmlcoin.com>",
   "main": "index.js",
